@@ -1,0 +1,4 @@
+{'nombre': 'max', 'edad': 17, 'ciudad': 'tampico'}
+{'nombre': 'jose', 'edad': 20, 'ciudad': 'tampico'}
+{'nombre': 'eidan', 'edad': 19, 'ciudad': 'tampico'}
+{'nombre': 'luis', 'edad': 78, 'ciudad': 'tampico'}

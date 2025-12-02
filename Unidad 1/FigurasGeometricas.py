@@ -1,10 +1,7 @@
 
 import math
 print("Introducir las figuras disponibles")
-print("1.Cuadrado")
-print("2. Triangulo")
-print("3. Rectangulo")
-print("4. Circulo")
+
 opcion = int(input("Elija una figura: "))
 if opcion == 1:
     lado = float(input("introduce el valor del lado"))

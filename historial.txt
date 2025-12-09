@@ -1,0 +1,12 @@
+Area cuadrado: 3.0 x 3.0 = 9.0 
+Perimetro cuadrado :3.0 x 4  = 12.0
+Area Triangulo Esc. v((6.0)(6.0 - 3.0)(6.0 - 4.0)(6.0 - 5.0) ) = 6.0
+Perim. Triangulo Esc. : 3.0 + 4.0 + 5.0 = 12.0
+Area Triangulo Equilatero: (3 / 4) x 3.0² = 7.794228634059947
+Perimetro Triangulo Equilatero: 3.0 x 3 = 9.0
+Area Triangulo Isoceles: (4.0 x 56.0) / 2 = 112.0
+Perimetro Triangulo Isoceles: 2 x  v((4.0 / 2)² + 56.0²) + 4.0 = 116.0714058089752
+Perimetro Rectangulo: 5.0 + 5.0 + 6.0 + 6.0 = 18.0
+Area Rectangulo: 5.0 x 6.0 = 15.0
+Area circulo : pi * 6.0**2 = 6.0
+Perimetro : (6.0 * 2) * pi = 37.69911184307752

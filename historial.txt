@@ -10,4 +10,9 @@ Perimetro Rectangulo: 5.0 + 5.0 + 6.0 + 6.0 = 18.0
 Area Rectangulo: 5.0 x 6.0 = 15.0
 Area circulo : pi * 6.0**2 = 6.0
 Perimetro : (6.0 * 2) * pi = 37.69911184307752
-    
+Area cuadrado: 5.0 x 5.0 = 25.0 
+Perimetro cuadrado :5.0 x 4  = 20.0
+Area Triangulo Esc. v((9.0)(9.0 - 5.0)(9.0 - 6.0)(9.0 - 7.0) ) = 14.696938456699069
+Perim. Triangulo Esc. : 5.0 + 6.0 + 7.0 = 18.0
+Area Triangulo Equilatero: (3 / 4) x 4.0� = 13.856406460551018
+Perimetro Triangulo Equilatero: 4.0 x 3 = 12.0

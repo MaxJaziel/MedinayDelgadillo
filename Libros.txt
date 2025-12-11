@@ -1,0 +1,4 @@
+{'titulo': 'La asistenta', 'autor': 'FreidaMcFadden', 'año': 2000, 'estatus': 'prestado'}
+{'titulo': 'Perro ', 'autor': 'Fernando Mtz.', 'año': 2026, 'estatus': 'prestado'}
+{'titulo': 'El avance de la tecnologia ', 'autor': 'Brandon Martinez', 'año': 2025, 'estatus': 'prestado'}
+{'titulo': 'Ecosistemas', 'autor': 'Brenda Venegas', 'año': 2018, 'estatus': 'prestado'}
